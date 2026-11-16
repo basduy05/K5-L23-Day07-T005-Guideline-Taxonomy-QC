@@ -1,0 +1,304 @@
+[
+  {
+    "name": "car",
+    "color": "#e6194b",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "sub_type",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "sedan_suv_hatchback",
+        "values": [
+          "sedan_suv_hatchback",
+          "tuk_tuk",
+          "novelty_parade_car"
+        ]
+      },
+      {
+        "name": "motion_blur",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "none",
+        "values": [
+          "none",
+          "blurred"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "truck",
+    "color": "#3cb44b",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "sub_type",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "pickup_truck",
+        "values": [
+          "pickup_truck",
+          "box_delivery_truck",
+          "car_carrier",
+          "songthaew_passenger",
+          "pickup_with_tall_cap"
+        ]
+      },
+      {
+        "name": "cargo_status",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "empty_normal",
+        "values": [
+          "empty_normal",
+          "bulky_loaded"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "van",
+    "color": "#4363d8",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "sub_type",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "passenger_minibus",
+        "values": [
+          "passenger_minibus",
+          "blind_cargo_van"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "motorcycle",
+    "color": "#f58231",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "sub_type",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "standard_two_wheel",
+        "values": [
+          "standard_two_wheel",
+          "sidecar_three_wheel",
+          "with_cargo_trailer"
+        ]
+      },
+      {
+        "name": "cargo_status",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "none_normal",
+        "values": [
+          "none_normal",
+          "overloaded_bulky"
+        ]
+      },
+      {
+        "name": "motion_blur",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "none",
+        "values": [
+          "none",
+          "blurred"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "person",
+    "color": "#911eb4",
+    "attributes": [
+      {
+        "name": "occluded_level",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "0",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "name": "truncated",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes"
+        ]
+      },
+      {
+        "name": "role",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "pedestrian",
+        "values": [
+          "pedestrian",
+          "motorbike_rider",
+          "passenger",
+          "cyclo_bicycle_rider",
+          "worker_standing"
+        ]
+      },
+      {
+        "name": "has_luggage",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "no",
+        "values": [
+          "no",
+          "yes_backpack_bag"
+        ]
+      },
+      {
+        "name": "can_review",
+        "mutable": false,
+        "input_type": "checkbox",
+        "default_value": "false",
+        "values": []
+      }
+    ]
+  },
+  {
+    "name": "ignore_region",
+    "color": "#808080",
+    "attributes": [
+      {
+        "name": "reason",
+        "mutable": false,
+        "input_type": "select",
+        "default_value": "distant_small_objects",
+        "values": [
+          "distant_small_objects",
+          "dense_parking_cluster",
+          "shop_reflection_mannequin",
+          "toy_collection",
+          "out_of_taxonomy_vehicle"
+        ]
+      }
+    ]
+  }
+]
