@@ -3,7 +3,7 @@
 ## Hình thức
 
 - **Nhóm 2–5 người**, mỗi thành viên có guideline, nhãn và ghi chú riêng. Mọi người làm cùng phạm vi (40 ảnh) và cùng tiêu chí QC.
-- Dùng **mã thành viên** ba chữ số (ví dụ `101`) trong tên file, Task và nhật ký.
+- Nhánh cá nhân hỗ trợ tên file **`<MSHV>_<HoTen>`** (ví dụ `2A202603183_HoangNhatAnh`), họ tên không dấu viết liền; bảng phân công dùng MSHV. Các mã ba chữ số cũ như `101` vẫn được hỗ trợ.
 
 ## Độc lập
 

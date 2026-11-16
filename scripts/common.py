@@ -20,7 +20,11 @@ FINAL_TAXONOMY_PATH = ROOT / "submission" / "taxonomy_v1.1.json"
 GUIDELINE_PATH = ROOT / "submission" / "guidelines" / "guideline_v1.0_agreed.md"
 FINAL_GUIDELINE_PATH = ROOT / "submission" / "guidelines" / "guideline_v1.1_calibrated.md"
 ASSIGNMENT_PATH = ROOT / "submission" / "qc" / "assignment.csv"
-MEMBER_RE = re.compile(r"\d{3}", re.ASCII)
+MEMBER_PATTERN = r"(?:\d{3}|2A\d{9})"
+MEMBER_RE = re.compile(MEMBER_PATTERN, re.ASCII)
+LABEL_STEM_RE = re.compile(
+    rf"(?P<member>{MEMBER_PATTERN})(?:_[A-Za-z][A-Za-z0-9_-]*)?", re.ASCII
+)
 LABELS_DIR = ROOT / "submission" / "labels"
 QC_DIR = ROOT / "submission" / "qc"
 IMAGES_DIR = ROOT / "data" / "images"
@@ -33,6 +37,17 @@ Box = Tuple[float, float, float, float]  # (x1, y1, x2, y2)
 def die(msg: str, code: int = 2) -> None:
     print(f"\nLỖI: {msg}", file=sys.stderr)
     sys.exit(code)
+
+
+def label_member(path: Path) -> str:
+    """Tách MSHV khỏi <MSHV>_<HoTen>.json; vẫn đọc được tên mã ngắn cũ."""
+    match = LABEL_STEM_RE.fullmatch(path.stem)
+    if path.suffix != ".json" or match is None:
+        raise ValueError(
+            "Tên nhãn phải dạng <MSHV>_<HoTen>.json "
+            "(ví dụ 2A202603183_HoangNhatAnh.json) hoặc <mã>.json."
+        )
+    return match.group("member")
 
 
 # --------------------------------------------------------------------------- taxonomy
@@ -202,7 +217,9 @@ def load_coco(path: Path, tax: Taxonomy) -> LabelFile:
     if len(cats) != len(data["categories"]) or len(set(cats.values())) != len(cats):
         raise ValueError("COCO có ID hoặc tên category trùng.")
     imgs = {}
-    lf = LabelFile(Path(path), Path(path).stem, {}, {})
+    match = LABEL_STEM_RE.fullmatch(Path(path).stem)
+    member = match.group("member") if match else Path(path).stem
+    lf = LabelFile(Path(path), member, {}, {})
     for im in data.get("images", []):
         base = Path(im["file_name"]).name
         if base in lf.images or im["id"] in imgs:
@@ -242,11 +259,13 @@ def load_all_labels(tax: Taxonomy) -> Dict[str, LabelFile]:
     files = list_label_files()
     if not files:
         die("Chưa có file nhãn nào trong submission/labels/. Mỗi thành viên export COCO 1.0 từ CVAT, "
-            "đặt tên theo mã, ví dụ 101.json.")
+            "đặt tên <MSHV>_<HoTen>.json hoặc <mã>.json.")
     out: Dict[str, LabelFile] = {}
     for p in files:
-        if not MEMBER_RE.fullmatch(p.stem):
-            die(f"{p.name}: đặt tên theo mã ba chữ số, ví dụ 101.json.")
+        try:
+            label_member(p)
+        except ValueError as exc:
+            die(f"{p.name}: {exc}")
         try:
             lf = load_coco(p, tax)
         except Exception as e:  # noqa

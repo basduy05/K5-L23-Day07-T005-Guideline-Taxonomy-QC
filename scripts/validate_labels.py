@@ -4,7 +4,7 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from common import MEMBER_RE, die, list_label_files, load_taxonomy, rel, require_assignment, require_valid_labels
+from common import die, label_member, list_label_files, load_taxonomy, rel, require_assignment, require_valid_labels
 
 
 def main() -> None:
@@ -18,8 +18,10 @@ def main() -> None:
     assignment = require_assignment()
     tax = load_taxonomy()
     for path in paths:
-        if path.suffix != ".json" or not MEMBER_RE.fullmatch(path.stem):
-            die("Đặt file theo mã thành viên, ví dụ 101.json hoặc 192.json.")
+        try:
+            label_member(path)
+        except ValueError as exc:
+            die(str(exc))
         labels = require_valid_labels(path, tax)
         expected = {image for image, members in assignment.items() if labels.member in members}
         if not expected or expected != labels.images.keys():

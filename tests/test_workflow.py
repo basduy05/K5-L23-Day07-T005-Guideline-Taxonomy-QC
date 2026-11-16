@@ -243,17 +243,24 @@ class WorkflowTest(unittest.TestCase):
         self.assertEqual(sorted(path.name for path in self.images.iterdir()), self.names)
 
     def test_full_cli_handoff_checks_final_decision_and_rejects_tampering(self):
+        self.check_full_handoff(("101", "102"))
+
+    def test_full_named_member_handoff(self):
+        self.check_full_handoff(("2A202603183_HoangNhatAnh", "2A202603192_NguyenBaDuy"))
+
+    def check_full_handoff(self, stems):
+        members = [stem.split("_", 1)[0] for stem in stems]
         (self.root / "guideline").mkdir()
         (self.root / "guideline" / "guideline_v0_starter.md").write_text("v0", encoding="utf-8")
-        (self.root / "TEAM.md").write_text("101, 102", encoding="utf-8")
+        (self.root / "TEAM.md").write_text(", ".join(members), encoding="utf-8")
         (self.sub / "guidelines" / "individual").mkdir()
         (self.sub / "individual_notes").mkdir()
-        self.run_script("split_assign", "--members", "101,102", "--copy-images")
+        self.run_script("split_assign", "--members", ",".join(members), "--copy-images")
         self.run_script("make_cvat_labels")
-        for member in ("101", "102"):
-            self.coco(self.sub / "labels" / f"{member}.json")
-            (self.sub / "guidelines" / "individual" / f"guideline_{member}.md").write_text("R-01", encoding="utf-8")
-            (self.sub / "individual_notes" / f"{member}.md").write_text("R-01", encoding="utf-8")
+        for stem in stems:
+            self.coco(self.sub / "labels" / f"{stem}.json")
+            (self.sub / "guidelines" / "individual" / f"guideline_{stem}.md").write_text("R-01", encoding="utf-8")
+            (self.sub / "individual_notes" / f"{stem}.md").write_text("R-01", encoding="utf-8")
         self.run_script("validate_labels", "--all")
         self.run_script("qc_compare")
         self.run_script("viz_disagreement", "--images", "flagged")
@@ -271,6 +278,15 @@ class WorkflowTest(unittest.TestCase):
         self.run_script("check_submission")
         report.write_text(complete.replace("- Quyết định: Release", "- Quyết định: Hold"), encoding="utf-8")
         self.run_script("check_submission", success=False)
+
+    def test_duplicate_named_member_labels_are_rejected(self):
+        self.assignments("2A202603183|2A202603192")
+        self.coco(self.sub / "labels" / "2A202603183_HoangNhatAnh.json")
+        self.coco(self.sub / "labels" / "2A202603183.json")
+        self.coco(self.sub / "labels" / "2A202603192_NguyenBaDuy.json")
+        output = self.run_script("qc_compare", success=False)
+        self.assertIn("2A202603183", output)
+        self.assertFalse((self.qc / "iaa_summary.json").exists())
 
     def test_revised_decision_rejects_previous_export_for_same_scope(self):
         self.clean_lot()

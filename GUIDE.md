@@ -15,7 +15,7 @@ Bài nhóm 2–5 người, **4 giờ**, làm trên **cả 40 ảnh**. Chạy l�
 | 5 (40') | Calibration, nhãn cuối | `prepare_calibration.py`, `build_final.py` | `calibration_decisions.csv`, `labels_calibrated.json` |
 | 6 (30') | Duyệt QC, bàn giao | `qc_sample.py`, `qc_report.py`, `check_submission.py` | `QC_REPORT.md` |
 
-Mã thành viên có ba chữ số (ví dụ `101`, `102`) và dùng trong tên file. Không dùng họ tên, MSHV hay email.
+Trong nhánh cá nhân này, tên file có thể dùng `<MSHV>_<HoTen>` (ví dụ `2A202603183_HoangNhatAnh`), với họ tên không dấu viết liền. Script tách MSHV để đối chiếu phân công; `assignment.csv` và danh sách ảnh dùng MSHV không kèm họ tên. Các mã ba chữ số cũ như `101`, `102` vẫn được hỗ trợ.
 
 ## Pha 0 — Chuẩn bị
 
@@ -58,7 +58,7 @@ Việc của mỗi người:
 
 1. Tạo Task riêng trong CVAT ([docs/CVAT_SETUP.md](docs/CVAT_SETUP.md)), tải đúng ảnh của mình, gán theo v1.0.
 2. Box chưa chắc: tick `can_review`. Chưa vẽ được box: ghi ảnh, vùng, lý do để nhóm thu vào `submission/qc/image_issues.csv` (cột `image,annotator,region,note`) **sau khi khóa nhãn**.
-3. Export COCO 1.0, lưu `submission/labels/<mã>.json`, rồi kiểm:
+3. Export COCO 1.0, lưu `submission/labels/<MSHV>_<HoTen>.json` (ví dụ `2A202603183_HoangNhatAnh.json`; hỗ trợ tên mã ngắn cũ), rồi kiểm:
    ```bash
    python scripts/validate_labels.py submission/labels/101.json
    ```

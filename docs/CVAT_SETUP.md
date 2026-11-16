@@ -31,8 +31,8 @@ Tên nhãn trong CVAT phải trùng `taxonomy.json`.
 
 1. **Actions → Export task dataset**: format **COCO 1.0**, **tắt** Save images.
 2. Tải file ở trang **Requests**, giải nén, lấy `annotations/instances_<subset>.json` (thường là `instances_default.json`).
-3. Lưu thành `submission/labels/<mã>.json` (ví dụ `101.json`).
-4. `python scripts/validate_labels.py submission/labels/101.json`. Kiểm kỹ ảnh trống và các trường trong `attributes`.
+3. Lưu thành `submission/labels/<MSHV>_<HoTen>.json` (ví dụ `2A202603183_HoangNhatAnh.json`); tên mã ngắn cũ vẫn được hỗ trợ.
+4. `python scripts/validate_labels.py submission/labels/2A202603183_HoangNhatAnh.json`. Kiểm kỹ ảnh trống và các trường trong `attributes`.
 
 ## 4. Sửa ca calibration
 

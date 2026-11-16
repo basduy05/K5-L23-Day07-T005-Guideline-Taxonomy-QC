@@ -44,21 +44,23 @@ def main() -> int:
         parser.error("--round phải là số nguyên dương.")
     assignment = require_assignment()
     members = {member for codes in assignment.values() for member in codes}
+    labels = load_all_labels(load_taxonomy())
     errors = []
     for member in sorted(members):
+        stem = labels[member].path.stem if member in labels else member
         for path in (
-            SUB / "guidelines" / "individual" / f"guideline_{member}.md",
-            SUB / "labels" / f"{member}.json",
-            SUB / "individual_notes" / f"{member}.md",
+            SUB / "guidelines" / "individual" / f"guideline_{stem}.md",
+            SUB / "labels" / f"{stem}.json",
+            SUB / "individual_notes" / f"{stem}.md",
         ):
             if not path.is_file() or not path.read_text(encoding="utf-8").strip():
                 errors.append(f"Thiếu hoặc trống: {path.relative_to(ROOT)}.")
-    labels = load_all_labels(load_taxonomy())
     if set(labels) != members:
         errors.append("Danh sách file nhãn phải khớp mã thành viên trong assignment.csv.")
     starter = ROOT / "guideline" / "guideline_v0_starter.md"
     for member in sorted(members):
-        draft = SUB / "guidelines" / "individual" / f"guideline_{member}.md"
+        stem = labels[member].path.stem if member in labels else member
+        draft = SUB / "guidelines" / "individual" / f"guideline_{stem}.md"
         if draft.is_file() and digest(draft) == digest(starter):
             errors.append(f"Guideline {member} giống nguyên bản v0.")
     report = QC_DIR / "QC_REPORT.md"

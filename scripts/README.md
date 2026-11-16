@@ -34,7 +34,7 @@ File `submission/qc/reviews/round-NN/qc_review.csv`, cột: `image, object_id, e
 | Lỗi trên box | một dòng mỗi loại lỗi: `object_id` (in trên ảnh QC), `rule_id`, `note`; `error_type` là `thua`, `sai_lop`, `sai_vi_tri_kich_thuoc` hoặc `sai_thuoc_tinh` |
 | Vật bỏ sót | `error_type=bo_sot`, **để trống** `object_id`, ghi `region` đủ cụ thể để tìm vật, kèm `rule_id`, `note`. Nhiều vật gần nhau: mỗi vật một mô tả vùng |
 
-- `reviewer` là mã ba chữ số trên **mọi** dòng.
+- `reviewer` là MSHV (ví dụ `2A202603183`) hoặc mã ba chữ số cũ trên **mọi** dòng.
 - Cần sửa nhãn: cập nhật quyết định, lưu COCO theo phiên bản do `prepare_calibration.py` in ra, chạy `build_final.py`, rồi mở vòng mới. Phiếu vòng trước đi cùng bản chụp nhãn cũ.
 
 ## Script kiểm được gì, không kiểm được gì

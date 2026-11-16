@@ -29,7 +29,7 @@ def main() -> None:
 
     members = [m.strip() for m in args.members.split(",") if m.strip()]
     if not all(MEMBER_RE.fullmatch(member) for member in members):
-        die("Mỗi mã thành viên gồm ba chữ số, ví dụ 101,102.")
+        die("Dùng MSHV như 2A202603183 hoặc mã ba chữ số như 101; không dùng đường dẫn.")
     if len(set(members)) != len(members):
         die("Có mã thành viên bị trùng trong --members: " + str([m for m, c in Counter(members).items() if c > 1]))
     if len(members) < 2:
