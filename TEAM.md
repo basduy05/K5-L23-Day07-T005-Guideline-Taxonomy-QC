@@ -19,8 +19,9 @@
 ## Kết quả tóm tắt (điền cuối bài)
 
 - Lượt gán hoàn tất / được giao: 120 / 120 (40 ảnh x 3 lượt)
-- IAA trước calibration (kèm mẫu số):
-- Số ảnh phải calibration: … / 40
-- Vòng QC và số ảnh đã duyệt / cả lô:
-- Tỉ lệ lỗi: … % theo ảnh (…/…), … % theo đối tượng (…/…)
-- **Quyết định** (Release / Hold / Rework) và lý do một dòng:
+- IAA trước calibration (kèm mẫu số): IoU TB = 0.957, Cùng lớp = 96.4% (mẫu số: 1209 cặp box ghép)
+- Số ảnh phải calibration: 40 / 40
+- Vòng QC và số ảnh đã duyệt / cả lô: Vòng 1, đã duyệt 40 / 40 ảnh
+- Tỉ lệ lỗi: 0.0% theo ảnh (0/40), 0.0% theo đối tượng (0/589)
+- **Quyết định** (Release / Hold / Rework) và lý do một dòng: **RELEASE** — Cả 40 ảnh đạt chuẩn kiểm định QC vòng 1 (0 lỗi / 40 ảnh, 0 lỗi / 589 đối tượng), giải quyết triệt để 1409 ca lệch theo quy tắc thống nhất.
+

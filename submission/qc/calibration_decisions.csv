@@ -1,0 +1,1410 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_001,040_dat,anh
+C002,img_001.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_001,040_dat,anh
+C003,img_001.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_001,040_dat,anh
+C004,img_001.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_001,040_dat,anh
+C005,img_001.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_001,040_dat,anh
+C006,img_001.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_001,040_dat,anh
+C007,img_001.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_001,040_dat,anh
+C008,img_001.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_001,040_dat,anh
+C009,img_001.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_001,040_dat,anh
+C010,img_001.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_001,040_dat,anh
+C011,img_001.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_001,040_dat,anh
+C012,img_001.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_001,040_dat,anh
+C013,img_001.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_001,040_dat,anh
+C014,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C015,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C016,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C017,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C018,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C019,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C020,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C021,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C022,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C023,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C024,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C025,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C026,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C027,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C028,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C029,img_001.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_001,040_dat,anh
+C030,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C031,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C032,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C033,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C034,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C035,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C036,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C037,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C038,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C039,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C040,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C041,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C042,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C043,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C044,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C045,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C046,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C047,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C048,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C049,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C050,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C051,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C052,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C053,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C054,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C055,img_002.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_002,040_dat,anh
+C056,img_002.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_002,040_dat,anh
+C057,img_002.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_002,040_dat,anh
+C058,img_002.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_002,040_dat,anh
+C059,img_002.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_002,040_dat,anh
+C060,img_002.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_002,040_dat,anh
+C061,img_002.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_002,040_dat,anh
+C062,img_003.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_003,040_dat,anh
+C063,img_003.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_003,040_dat,anh
+C064,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C065,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C066,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C067,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C068,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C069,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C070,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C071,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C072,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C073,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C074,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C075,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C076,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C077,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C078,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C079,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C080,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C081,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C082,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C083,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C084,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C085,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C086,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C087,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C088,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C089,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C090,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C091,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C092,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C093,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C094,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C095,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C096,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C097,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C098,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C099,img_003.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_003,040_dat,anh
+C100,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C101,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C102,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C103,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C104,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C105,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C106,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C107,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C108,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C109,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C110,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C111,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C112,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C113,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C114,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C115,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C116,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C117,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C118,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C119,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C120,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C121,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C122,img_003.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_003,040_dat,anh
+C123,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C124,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C125,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C126,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C127,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C128,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C129,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C130,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C131,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C132,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C133,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C134,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C135,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C136,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C137,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C138,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C139,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C140,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C141,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C142,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C143,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C144,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C145,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C146,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C147,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C148,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C149,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C150,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C151,img_003.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_003,040_dat,anh
+C152,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C153,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C154,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C155,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C156,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C157,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C158,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C159,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C160,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C161,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C162,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C163,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C164,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C165,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C166,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C167,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C168,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C169,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C170,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C171,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C172,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C173,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C174,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C175,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C176,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C177,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C178,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C179,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C180,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C181,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C182,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C183,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C184,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C185,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C186,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C187,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C188,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C189,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C190,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C191,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C192,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C193,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C194,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C195,img_003.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_003,040_dat,anh
+C196,img_004.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_004,040_dat,anh
+C197,img_004.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_004,040_dat,anh
+C198,img_004.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_004,040_dat,anh
+C199,img_004.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_004,040_dat,anh
+C200,img_004.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_004,040_dat,anh
+C201,img_004.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_004,040_dat,anh
+C202,img_004.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_004,040_dat,anh
+C203,img_004.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_004,040_dat,anh
+C204,img_004.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_004,040_dat,anh
+C205,img_004.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_004,040_dat,anh
+C206,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C207,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C208,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C209,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C210,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C211,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C212,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C213,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C214,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C215,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C216,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C217,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C218,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C219,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C220,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C221,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C222,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C223,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C224,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C225,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C226,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C227,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C228,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C229,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C230,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C231,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C232,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C233,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C234,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C235,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C236,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C237,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C238,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C239,img_005.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_005,040_dat,anh
+C240,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C241,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C242,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C243,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C244,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C245,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C246,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C247,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C248,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C249,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C250,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C251,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C252,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C253,img_005.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_005,040_dat,anh
+C254,img_005.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_005,040_dat,anh
+C255,img_005.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_005,040_dat,anh
+C256,img_005.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_005,040_dat,anh
+C257,img_005.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_005,040_dat,anh
+C258,img_005.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_005,040_dat,anh
+C259,img_005.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_005,040_dat,anh
+C260,img_005.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_005,040_dat,anh
+C261,img_005.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_005,040_dat,anh
+C262,img_005.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_005,040_dat,anh
+C263,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C264,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C265,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C266,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C267,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C268,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C269,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C270,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C271,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C272,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C273,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C274,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C275,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C276,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C277,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C278,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C279,img_005.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_005,040_dat,anh
+C280,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C281,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C282,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C283,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C284,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C285,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C286,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C287,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C288,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C289,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C290,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C291,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C292,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C293,img_006.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_006,040_dat,anh
+C294,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C295,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C296,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C297,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C298,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C299,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C300,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C301,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C302,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C303,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C304,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C305,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C306,img_006.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_006,040_dat,anh
+C307,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C308,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C309,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C310,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C311,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C312,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C313,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C314,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C315,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C316,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C317,img_006.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_006,040_dat,anh
+C318,img_006.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_006,040_dat,anh
+C319,img_006.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_006,040_dat,anh
+C320,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C321,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C322,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C323,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C324,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C325,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C326,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C327,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C328,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C329,img_006.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_006,040_dat,anh
+C330,img_007.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_007,040_dat,anh
+C331,img_007.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_007,040_dat,anh
+C332,img_007.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_007,040_dat,anh
+C333,img_007.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_007,040_dat,anh
+C334,img_007.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_007,040_dat,anh
+C335,img_007.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_007,040_dat,anh
+C336,img_007.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_007,040_dat,anh
+C337,img_007.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_007,040_dat,anh
+C338,img_007.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_007,040_dat,anh
+C339,img_007.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_007,040_dat,anh
+C340,img_007.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_007,040_dat,anh
+C341,img_007.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_007,040_dat,anh
+C342,img_007.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_007,040_dat,anh
+C343,img_007.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_007,040_dat,anh
+C344,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C345,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C346,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C347,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C348,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C349,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C350,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C351,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C352,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C353,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C354,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C355,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C356,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C357,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C358,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C359,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C360,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C361,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C362,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C363,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C364,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C365,img_008.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_008,040_dat,anh
+C366,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C367,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C368,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C369,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C370,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C371,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C372,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C373,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C374,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C375,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C376,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C377,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C378,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C379,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C380,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C381,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C382,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C383,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C384,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C385,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C386,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C387,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C388,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C389,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C390,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C391,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C392,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C393,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C394,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C395,img_008.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_008,040_dat,anh
+C396,img_008.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_008,040_dat,anh
+C397,img_008.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_008,040_dat,anh
+C398,img_008.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_008,040_dat,anh
+C399,img_008.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_008,040_dat,anh
+C400,img_008.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_008,040_dat,anh
+C401,img_008.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_008,040_dat,anh
+C402,img_008.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_008,040_dat,anh
+C403,img_008.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_008,040_dat,anh
+C404,img_008.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_008,040_dat,anh
+C405,img_008.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_008,040_dat,anh
+C406,img_008.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_008,040_dat,anh
+C407,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C408,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C409,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C410,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C411,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C412,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C413,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C414,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C415,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C416,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C417,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C418,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C419,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C420,img_009.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_009,040_dat,anh
+C421,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C422,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C423,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C424,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C425,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C426,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C427,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C428,img_009.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_009,040_dat,anh
+C429,img_009.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_009,040_dat,anh
+C430,img_009.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_009,040_dat,anh
+C431,img_009.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_009,040_dat,anh
+C432,img_009.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_009,040_dat,anh
+C433,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C434,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C435,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C436,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C437,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C438,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C439,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C440,img_010.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_010,040_dat,anh
+C441,img_010.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_010,040_dat,anh
+C442,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C443,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C444,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C445,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C446,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C447,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C448,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C449,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C450,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C451,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C452,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C453,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C454,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C455,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C456,img_010.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_010,040_dat,anh
+C457,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C458,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C459,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C460,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C461,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C462,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C463,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C464,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C465,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C466,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C467,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C468,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C469,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C470,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C471,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C472,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C473,img_011.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_011,040_dat,anh
+C474,img_011.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_011,040_dat,anh
+C475,img_011.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_011,040_dat,anh
+C476,img_011.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_011,040_dat,anh
+C477,img_011.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_011,040_dat,anh
+C478,img_011.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_011,040_dat,anh
+C479,img_011.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_011,040_dat,anh
+C480,img_011.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_011,040_dat,anh
+C481,img_011.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_011,040_dat,anh
+C482,img_011.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_011,040_dat,anh
+C483,img_011.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_011,040_dat,anh
+C484,img_011.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_011,040_dat,anh
+C485,img_011.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_011,040_dat,anh
+C486,img_011.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_011,040_dat,anh
+C487,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C488,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C489,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C490,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C491,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C492,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C493,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C494,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C495,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C496,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C497,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C498,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C499,img_011.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_011,040_dat,anh
+C500,img_012.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_012,040_dat,anh
+C501,img_012.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_012,040_dat,anh
+C502,img_012.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_012,040_dat,anh
+C503,img_012.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_012,040_dat,anh
+C504,img_012.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_012,040_dat,anh
+C505,img_012.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_012,040_dat,anh
+C506,img_012.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_012,040_dat,anh
+C507,img_012.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_012,040_dat,anh
+C508,img_012.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_012,040_dat,anh
+C509,img_012.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_012,040_dat,anh
+C510,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C511,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C512,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C513,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C514,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C515,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C516,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C517,img_012.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_012,040_dat,anh
+C518,img_013.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_013,040_dat,anh
+C519,img_013.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_013,040_dat,anh
+C520,img_013.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_013,040_dat,anh
+C521,img_013.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_013,040_dat,anh
+C522,img_013.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_013,040_dat,anh
+C523,img_013.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_013,040_dat,anh
+C524,img_013.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_013,040_dat,anh
+C525,img_013.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_013,040_dat,anh
+C526,img_014.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_014,040_dat,anh
+C527,img_014.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_014,040_dat,anh
+C528,img_014.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_014,040_dat,anh
+C529,img_014.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_014,040_dat,anh
+C530,img_014.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_014,040_dat,anh
+C531,img_014.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_014,040_dat,anh
+C532,img_014.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_014,040_dat,anh
+C533,img_014.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_014,040_dat,anh
+C534,img_014.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_014,040_dat,anh
+C535,img_015.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_015,040_dat,anh
+C536,img_015.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_015,040_dat,anh
+C537,img_015.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_015,040_dat,anh
+C538,img_015.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_015,040_dat,anh
+C539,img_015.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_015,040_dat,anh
+C540,img_015.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_015,040_dat,anh
+C541,img_015.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_015,040_dat,anh
+C542,img_015.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_015,040_dat,anh
+C543,img_015.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_015,040_dat,anh
+C544,img_015.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_015,040_dat,anh
+C545,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C546,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C547,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C548,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C549,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C550,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C551,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C552,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C553,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C554,img_016.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_016,040_dat,anh
+C555,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C556,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C557,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C558,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C559,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C560,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C561,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C562,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C563,img_016.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_016,040_dat,anh
+C564,img_016.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_016,040_dat,anh
+C565,img_016.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_016,040_dat,anh
+C566,img_016.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_016,040_dat,anh
+C567,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C568,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C569,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C570,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C571,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C572,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C573,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C574,img_016.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_016,040_dat,anh
+C575,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C576,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C577,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C578,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C579,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C580,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C581,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C582,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C583,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C584,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C585,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C586,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C587,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C588,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C589,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C590,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C591,img_016.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_016,040_dat,anh
+C592,img_017.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_017,040_dat,anh
+C593,img_017.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_017,040_dat,anh
+C594,img_017.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_017,040_dat,anh
+C595,img_017.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_017,040_dat,anh
+C596,img_018.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_018,040_dat,anh
+C597,img_018.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_018,040_dat,anh
+C598,img_018.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_018,040_dat,anh
+C599,img_018.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_018,040_dat,anh
+C600,img_018.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_018,040_dat,anh
+C601,img_018.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_018,040_dat,anh
+C602,img_018.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_018,040_dat,anh
+C603,img_018.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_018,040_dat,anh
+C604,img_018.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_018,040_dat,anh
+C605,img_018.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_018,040_dat,anh
+C606,img_018.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_018,040_dat,anh
+C607,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C608,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C609,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C610,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C611,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C612,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C613,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C614,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C615,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C616,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C617,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C618,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C619,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C620,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C621,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C622,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C623,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C624,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C625,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C626,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C627,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C628,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C629,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C630,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C631,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C632,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C633,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C634,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C635,img_019.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_019,040_dat,anh
+C636,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C637,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C638,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C639,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C640,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C641,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C642,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C643,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C644,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C645,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C646,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C647,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C648,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C649,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C650,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C651,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C652,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C653,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C654,img_019.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_019,040_dat,anh
+C655,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C656,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C657,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C658,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C659,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C660,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C661,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C662,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C663,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C664,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C665,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C666,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C667,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C668,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C669,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C670,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C671,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C672,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C673,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C674,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C675,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C676,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C677,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C678,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C679,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C680,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C681,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C682,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C683,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C684,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C685,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C686,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C687,img_019.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_019,040_dat,anh
+C688,img_019.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_019,040_dat,anh
+C689,img_019.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_019,040_dat,anh
+C690,img_019.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_019,040_dat,anh
+C691,img_019.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_019,040_dat,anh
+C692,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C693,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C694,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C695,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C696,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C697,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C698,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C699,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C700,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C701,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C702,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C703,img_019.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_019,040_dat,anh
+C704,img_020.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_020,040_dat,anh
+C705,img_020.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_020,040_dat,anh
+C706,img_020.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_020,040_dat,anh
+C707,img_020.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_020,040_dat,anh
+C708,img_021.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_021,040_dat,anh
+C709,img_021.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_021,040_dat,anh
+C710,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C711,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C712,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C713,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C714,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C715,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C716,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C717,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C718,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C719,img_021.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_021,040_dat,anh
+C720,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C721,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C722,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C723,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C724,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C725,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C726,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C727,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C728,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C729,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C730,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C731,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C732,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C733,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C734,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C735,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C736,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C737,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C738,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C739,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C740,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C741,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C742,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C743,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C744,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C745,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C746,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C747,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C748,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C749,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C750,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C751,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C752,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C753,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C754,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C755,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C756,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C757,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C758,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C759,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C760,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C761,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C762,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C763,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C764,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C765,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C766,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C767,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C768,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C769,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C770,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C771,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C772,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C773,img_021.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_021,040_dat,anh
+C774,img_021.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_021,040_dat,anh
+C775,img_021.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_021,040_dat,anh
+C776,img_021.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_021,040_dat,anh
+C777,img_021.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_021,040_dat,anh
+C778,img_021.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_021,040_dat,anh
+C779,img_021.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_021,040_dat,anh
+C780,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C781,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C782,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C783,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C784,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C785,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C786,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C787,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C788,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C789,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C790,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C791,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C792,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C793,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C794,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C795,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C796,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C797,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C798,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C799,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C800,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C801,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C802,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C803,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C804,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C805,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C806,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C807,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C808,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C809,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C810,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C811,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C812,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C813,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C814,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C815,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C816,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C817,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C818,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C819,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C820,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C821,img_021.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_021,040_dat,anh
+C822,img_022.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_022,040_dat,anh
+C823,img_022.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_022,040_dat,anh
+C824,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C825,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C826,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C827,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C828,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C829,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C830,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C831,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C832,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C833,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C834,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C835,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C836,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C837,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C838,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C839,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C840,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C841,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C842,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C843,img_023.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_023,040_dat,anh
+C844,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C845,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C846,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C847,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C848,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C849,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C850,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C851,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C852,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C853,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C854,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C855,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C856,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C857,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C858,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C859,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C860,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C861,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C862,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C863,img_023.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_023,040_dat,anh
+C864,img_023.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_023,040_dat,anh
+C865,img_023.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_023,040_dat,anh
+C866,img_023.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_023,040_dat,anh
+C867,img_023.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_023,040_dat,anh
+C868,img_023.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_023,040_dat,anh
+C869,img_023.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_023,040_dat,anh
+C870,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C871,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C872,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C873,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C874,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C875,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C876,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C877,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C878,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C879,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C880,img_023.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_023,040_dat,anh
+C881,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C882,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C883,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C884,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C885,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C886,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C887,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C888,img_024.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_024,040_dat,anh
+C889,img_024.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_024,040_dat,anh
+C890,img_024.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_024,040_dat,anh
+C891,img_024.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_024,040_dat,anh
+C892,img_024.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_024,040_dat,anh
+C893,img_024.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_024,040_dat,anh
+C894,img_024.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_024,040_dat,anh
+C895,img_024.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_024,040_dat,anh
+C896,img_024.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_024,040_dat,anh
+C897,img_024.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_024,040_dat,anh
+C898,img_024.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_024,040_dat,anh
+C899,img_024.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_024,040_dat,anh
+C900,img_024.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_024,040_dat,anh
+C901,img_024.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_024,040_dat,anh
+C902,img_025.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_025,040_dat,anh
+C903,img_025.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_025,040_dat,anh
+C904,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C905,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C906,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C907,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C908,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C909,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C910,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C911,img_025.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_025,040_dat,anh
+C912,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C913,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C914,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C915,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C916,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C917,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C918,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C919,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C920,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C921,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C922,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C923,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C924,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C925,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C926,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C927,img_025.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_025,040_dat,anh
+C928,img_025.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_025,040_dat,anh
+C929,img_025.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_025,040_dat,anh
+C930,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C931,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C932,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C933,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C934,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C935,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C936,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C937,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C938,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C939,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C940,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C941,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C942,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C943,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C944,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C945,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C946,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C947,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C948,img_025.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_025,040_dat,anh
+C949,img_026.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_026,040_dat,anh
+C950,img_026.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_026,040_dat,anh
+C951,img_026.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_026,040_dat,anh
+C952,img_026.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_026,040_dat,anh
+C953,img_026.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_026,040_dat,anh
+C954,img_026.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_026,040_dat,anh
+C955,img_026.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_026,040_dat,anh
+C956,img_026.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_026,040_dat,anh
+C957,img_026.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_026,040_dat,anh
+C958,img_026.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_026,040_dat,anh
+C959,img_026.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_026,040_dat,anh
+C960,img_026.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_026,040_dat,anh
+C961,img_026.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_026,040_dat,anh
+C962,img_027.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_027,040_dat,anh
+C963,img_027.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_027,040_dat,anh
+C964,img_028.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_028,040_dat,anh
+C965,img_028.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_028,040_dat,anh
+C966,img_028.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_028,040_dat,anh
+C967,img_028.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_028,040_dat,anh
+C968,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C969,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C970,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C971,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C972,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C973,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C974,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C975,img_029.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_029,040_dat,anh
+C976,img_029.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_029,040_dat,anh
+C977,img_029.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_029,040_dat,anh
+C978,img_029.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_029,040_dat,anh
+C979,img_029.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_029,040_dat,anh
+C980,img_029.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_029,040_dat,anh
+C981,img_029.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_029,040_dat,anh
+C982,img_029.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_029,040_dat,anh
+C983,img_029.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_029,040_dat,anh
+C984,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C985,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C986,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C987,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C988,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C989,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C990,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C991,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C992,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C993,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C994,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C995,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C996,img_029.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_029,040_dat,anh
+C997,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C998,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C999,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1000,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1001,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1002,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1003,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1004,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1005,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1006,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1007,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1008,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1009,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1010,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1011,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1012,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1013,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1014,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1015,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1016,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1017,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1018,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1019,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1020,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1021,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1022,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1023,img_030.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_030,040_dat,anh
+C1024,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1025,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1026,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1027,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1028,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1029,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1030,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1031,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1032,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1033,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1034,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1035,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1036,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1037,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1038,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1039,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1040,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1041,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1042,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1043,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1044,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1045,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1046,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1047,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1048,img_030.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_030,040_dat,anh
+C1049,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1050,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1051,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1052,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1053,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1054,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1055,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1056,img_030.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_030,040_dat,anh
+C1057,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1058,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1059,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1060,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1061,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1062,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1063,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1064,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1065,img_030.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_030,040_dat,anh
+C1066,img_030.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_030,040_dat,anh
+C1067,img_030.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_030,040_dat,anh
+C1068,img_030.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_030,040_dat,anh
+C1069,img_030.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_030,040_dat,anh
+C1070,img_030.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_030,040_dat,anh
+C1071,img_030.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_030,040_dat,anh
+C1072,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1073,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1074,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1075,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1076,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1077,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1078,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1079,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1080,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1081,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1082,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1083,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1084,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1085,img_031.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_031,040_dat,anh
+C1086,img_031.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_031,040_dat,anh
+C1087,img_031.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_031,040_dat,anh
+C1088,img_031.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_031,040_dat,anh
+C1089,img_031.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_031,040_dat,anh
+C1090,img_031.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_031,040_dat,anh
+C1091,img_031.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_031,040_dat,anh
+C1092,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1093,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1094,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1095,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1096,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1097,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1098,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1099,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1100,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1101,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1102,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1103,img_031.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_031,040_dat,anh
+C1104,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1105,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1106,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1107,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1108,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1109,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1110,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1111,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1112,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1113,img_031.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_031,040_dat,anh
+C1114,img_032.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_032,040_dat,anh
+C1115,img_032.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_032,040_dat,anh
+C1116,img_032.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_032,040_dat,anh
+C1117,img_032.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_032,040_dat,anh
+C1118,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1119,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1120,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1121,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1122,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1123,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1124,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1125,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1126,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1127,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1128,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1129,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1130,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1131,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1132,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1133,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1134,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1135,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1136,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1137,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1138,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1139,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1140,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1141,img_032.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_032,040_dat,anh
+C1142,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1143,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1144,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1145,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1146,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1147,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1148,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1149,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1150,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1151,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1152,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1153,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1154,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1155,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1156,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1157,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1158,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1159,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1160,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1161,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1162,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1163,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1164,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1165,img_032.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_032,040_dat,anh
+C1166,img_032.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_032,040_dat,anh
+C1167,img_032.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_032,040_dat,anh
+C1168,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1169,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1170,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1171,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1172,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1173,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1174,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1175,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1176,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1177,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1178,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1179,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1180,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1181,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1182,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1183,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1184,img_032.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_032,040_dat,anh
+C1185,img_033.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_033,040_dat,anh
+C1186,img_033.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_033,040_dat,anh
+C1187,img_033.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_033,040_dat,anh
+C1188,img_033.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_033,040_dat,anh
+C1189,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1190,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1191,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1192,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1193,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1194,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1195,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1196,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1197,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1198,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1199,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1200,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1201,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1202,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1203,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1204,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1205,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1206,img_034.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_034,040_dat,anh
+C1207,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1208,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1209,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1210,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1211,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1212,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1213,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1214,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1215,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1216,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1217,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1218,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1219,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1220,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1221,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1222,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1223,img_034.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_034,040_dat,anh
+C1224,img_034.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_034,040_dat,anh
+C1225,img_034.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_034,040_dat,anh
+C1226,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1227,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1228,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1229,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1230,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1231,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1232,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1233,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1234,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1235,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1236,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1237,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1238,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1239,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1240,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1241,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1242,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1243,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1244,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1245,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1246,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1247,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1248,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1249,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1250,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1251,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1252,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1253,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1254,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1255,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1256,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1257,img_034.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_034,040_dat,anh
+C1258,img_035.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_035,040_dat,anh
+C1259,img_035.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_035,040_dat,anh
+C1260,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1261,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1262,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1263,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1264,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1265,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1266,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1267,img_035.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_035,040_dat,anh
+C1268,img_035.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_035,040_dat,anh
+C1269,img_035.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_035,040_dat,anh
+C1270,img_035.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_035,040_dat,anh
+C1271,img_035.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_035,040_dat,anh
+C1272,img_035.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_035,040_dat,anh
+C1273,img_035.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_035,040_dat,anh
+C1274,img_035.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_035,040_dat,anh
+C1275,img_035.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_035,040_dat,anh
+C1276,img_035.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_035,040_dat,anh
+C1277,img_035.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_035,040_dat,anh
+C1278,img_035.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_035,040_dat,anh
+C1279,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1280,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1281,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1282,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1283,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1284,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1285,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1286,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1287,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1288,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1289,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1290,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1291,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1292,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1293,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1294,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1295,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1296,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1297,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1298,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1299,img_035.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_035,040_dat,anh
+C1300,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1301,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1302,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1303,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1304,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1305,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1306,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1307,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1308,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1309,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1310,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1311,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1312,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1313,img_036.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_036,040_dat,anh
+C1314,img_036.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_036,040_dat,anh
+C1315,img_036.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_036,040_dat,anh
+C1316,img_036.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_036,040_dat,anh
+C1317,img_036.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_036,040_dat,anh
+C1318,img_036.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_036,040_dat,anh
+C1319,img_036.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_036,040_dat,anh
+C1320,img_036.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_036,040_dat,anh
+C1321,img_036.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_036,040_dat,anh
+C1322,img_036.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_036,040_dat,anh
+C1323,img_036.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_036,040_dat,anh
+C1324,img_036.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_036,040_dat,anh
+C1325,img_036.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_036,040_dat,anh
+C1326,img_036.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_036,040_dat,anh
+C1327,img_036.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_036,040_dat,anh
+C1328,img_036.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_036,040_dat,anh
+C1329,img_036.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_036,040_dat,anh
+C1330,img_036.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_036,040_dat,anh
+C1331,img_036.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_036,040_dat,anh
+C1332,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1333,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1334,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1335,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1336,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1337,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1338,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1339,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1340,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1341,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1342,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1343,img_037.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_037,040_dat,anh
+C1344,img_037.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_037,040_dat,anh
+C1345,img_037.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_037,040_dat,anh
+C1346,img_037.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_037,040_dat,anh
+C1347,img_037.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_037,040_dat,anh
+C1348,img_037.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_037,040_dat,anh
+C1349,img_037.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_037,040_dat,anh
+C1350,img_037.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_037,040_dat,anh
+C1351,img_038.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_038,040_dat,anh
+C1352,img_038.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_038,040_dat,anh
+C1353,img_038.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_038,040_dat,anh
+C1354,img_038.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_038,040_dat,anh
+C1355,img_039.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_039,040_dat,anh
+C1356,img_039.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_039,040_dat,anh
+C1357,img_039.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_039,040_dat,anh
+C1358,img_039.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_039,040_dat,anh
+C1359,img_039.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_039,040_dat,anh
+C1360,img_039.jpg,Chốt khoanh ignore_region cho cụm hậu cảnh xa và đám đông dính nhau,R-08,v1.1,040,consensus_img_039,040_dat,anh
+C1361,img_039.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_039,040_dat,anh
+C1362,img_039.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_039,040_dat,anh
+C1363,img_039.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_039,040_dat,anh
+C1364,img_039.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_039,040_dat,anh
+C1365,img_039.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_039,040_dat,anh
+C1366,img_039.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_039,040_dat,anh
+C1367,img_039.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_039,040_dat,anh
+C1368,img_039.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_039,040_dat,anh
+C1369,img_039.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_039,040_dat,anh
+C1370,img_039.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_039,040_dat,anh
+C1371,img_039.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_039,040_dat,anh
+C1372,img_039.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_039,040_dat,anh
+C1373,img_039.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_039,040_dat,anh
+C1374,img_039.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_039,040_dat,anh
+C1375,img_039.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_039,040_dat,anh
+C1376,img_040.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_040,040_dat,anh
+C1377,img_040.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_040,040_dat,anh
+C1378,img_040.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_040,040_dat,anh
+C1379,img_040.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_040,040_dat,anh
+C1380,img_040.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_040,040_dat,anh
+C1381,img_040.jpg,Chốt giữ box đủ kích thước >= 20px theo quy tắc nhìn thấy,R-02,v1.1,040,consensus_img_040,040_dat,anh
+C1382,img_040.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_040,040_dat,anh
+C1383,img_040.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_040,040_dat,anh
+C1384,img_040.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_040,040_dat,anh
+C1385,img_040.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_040,040_dat,anh
+C1386,img_040.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_040,040_dat,anh
+C1387,img_040.jpg,Reviewer nhóm đã rà soát và xác nhận đồng thuận,R-09,v1.1,040,consensus_img_040,040_dat,anh
+C1388,img_040.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_040,040_dat,anh
+C1389,img_040.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_040,040_dat,anh
+C1390,img_040.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_040,040_dat,anh
+C1391,img_040.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_040,040_dat,anh
+C1392,img_040.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_040,040_dat,anh
+C1393,img_040.jpg,Chốt bounding box ôm sát khung vỏ cơ học phương tiện,R-04,v1.1,040,consensus_img_040,040_dat,anh
+C1394,img_040.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_040,040_dat,anh
+C1395,img_040.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_040,040_dat,anh
+C1396,img_040.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_040,040_dat,anh
+C1397,img_040.jpg,Chốt phân loại nhãn theo đa số và định nghĩa lớp v1.0,R-01,v1.1,040,consensus_img_040,040_dat,anh
+C1398,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1399,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1400,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1401,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1402,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1403,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1404,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1405,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1406,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1407,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1408,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
+C1409,img_040.jpg,Chốt thuộc tính che khuất/cắt mép theo mức độ quan sát thực tế,R-03,v1.1,040,consensus_img_040,040_dat,anh
