@@ -45,7 +45,7 @@ Sau phiên họp Pha 2, nhóm T005 thống nhất bổ sung 4 lớp phương ti�
 | `bicycle` | Phương tiện thô sơ 2 bánh vận hành bằng bàn đạp sử dụng sức người (hoặc trợ lực điện nhẹ): xe đạp thể thao, xe đạp mini, xe đạp cào cào. | Xe đạp `img_006`, `img_029`, `img_039`. | Xe máy có động cơ (`motorcycle`), xe xích lô 3 bánh (`cyclo`), xe đẩy tay hàng rong (ngoài taxonomy). |
 | `cyclo` | Xe xích lô 3 bánh dùng bàn đạp sức người, có ghế/khoang hành khách phía trước và vị trí người đạp phía sau. | Xích lô du lịch tại Huế `img_006`, xích lô chở khách ở trung tâm `img_023`, `img_009`, `img_034`. | Xe đạp 2 bánh (`bicycle`), xe ba bánh có động cơ (`tuk_tuk`). |
 | `person` | Con người sống thật nhìn thấy trực tiếp ở mọi tư thế: đi bộ, đứng, ngồi, lái xe, đạp xe, bốc dỡ hàng hóa. | Người bán hàng `img_003`; người đi bộ `img_014`; người điều khiển và hành khách trên xe `img_026`, `img_040`. | Tượng điêu khắc `img_017`, chân dung trên billboard `img_018`, ma-nơ-canh `img_033`, búp bê đồ chơi `img_038`, ảnh phản chiếu gương. |
-| `ignore_region` | Hình chữ nhật xác định vùng không gian không gán chi tiết từng đối tượng do quá xa, mờ nhòe, hoặc tập hợp đông đúc dưới ngưỡng phát hiện ($< 20\text{ px}$). Bỏ sót trong vùng này không tính là lỗi. | Cụm người/xe ở hậu cảnh xa xôi `img_021`, đám đông xếp hàng ở trạm buýt ngoài cự ly `img_032`. | Không phủ lên tượng, đồ chơi, hình in đã biết là vật âm tính; không phủ lên toàn ảnh để trốn tránh việc vẽ box. |
+| `ignore_region` | Hình chữ nhật xác định vùng không gian không gán chi tiết từng đối tượng do quá xa, mờ nhòe, hoặc tập hợp đông đúc dưới ngưỡng phát hiện ($< 20\text{ px}$), hoặc đám đông dày đặc nhiều người dính sát nhau khó tách biệt ranh giới (`img_019`). Bỏ sót trong vùng này không tính là lỗi. | Cụm người/xe ở hậu cảnh xa xôi `img_021`, đám đông xếp hàng ở trạm buýt ngoài cự ly `img_032`, đám đông khán giả chen chúc dính sát nhau sau hàng rào chắn `img_019`. | Không phủ lên tượng, đồ chơi, hình in đã biết là vật âm tính; không phủ lên toàn ảnh để trốn tránh việc vẽ box. |
 
 ---
 
@@ -104,13 +104,17 @@ Mỗi bounding box thuộc 9 lớp đối tượng thực bắt buộc phải đ
 ### 3.7. Quy tắc Vật mô phỏng (Tượng, Đồ chơi, Hình in quảng cáo, Ma-nơ-canh)
 - Tượng điêu khắc (`img_017`, `img_027`), tranh ảnh chân dung (`img_018`), ma-nơ-canh (`img_033`), mô hình ô tô đồ chơi và búp bê (`img_038`): **Tuyệt đối không gán** thành người hoặc xe.
 - Giữ nguyên các vật này làm nền âm tính (hard negative background), **không phủ `ignore_region` lên chúng** để bộ phát hiện học cách loại bỏ vật giả.
-- Người thật hóa trang (cosplay Predator `img_011`, chuột Danger Mouse `img_019`): Xác định là người thật điều khiển hoặc cử động thì gán `person` (bật `can_review=true`).
+- Người thật hóa trang (cosplay Predator `img_011`): Xác định là người thật điều khiển hoặc cử động thì gán `person` (bật `can_review=true`).
+- Trường hợp tượng/mô hình mascot gắn trên xe (như tượng chuột Danger Mouse trong `img_019`): Chỉ gán `person` cho người lái xe thật nhìn thấy trong buồng lái; nhân vật chuột mô phỏng không có căn cứ người thật thì không tự gán `person`.
 
 ### 3.8. Quy tắc Kích thước tối thiểu và Vùng bỏ qua (Ignore Region)
 - Chiều cao hình chiếu $h = y_{max} - y_{min}$ trên ảnh gốc:
   - $h \ge 20\text{ px}$: Bắt buộc gán box đối tượng riêng lẻ.
   - $h < 20\text{ px}$: Không gán box đối tượng riêng; gom cụm vật nhỏ ở hậu cảnh xa vào 1 box `ignore_region` gọn gàng.
 - Không dùng `ignore_region` bao trùm lên toàn bộ ảnh hoặc che phủ các đối tượng lớn rõ ràng.
+- **Xử lý ca khó Đám đông nhiều người dính sát nhau (`img_019.jpg`):**
+  - Khi xuất hiện tình huống đám đông tập hợp đông đúc, nhiều người đứng chen chúc, đè lấn và dính sát vào nhau sau hàng rào chắn bảo vệ (như trong `img_019.jpg`), việc vẽ tách biệt từng box người riêng lẻ sẽ dẫn đến tranh chấp ranh giới hình học gay gắt, độ che khuất không thể xác định chính xác và gây sụt giảm mạnh chỉ số IoU giữa các annotator.
+  - **Cách xử lý chuẩn hóa:** Bôi/khoanh toàn bộ vùng tập trung nhiều người dính sát nhau này bằng nhãn **`ignore_region`**. Tuyệt đối không gán từng box `person` đơn lẻ cho các cá nhân nằm trong vùng đám đông dính nhau này. Lỗi bỏ sót bên trong `ignore_region` không bị tính là lỗi QC. Đối tượng foreground chính (xe diễu hành `car` và người lái thật `person` trong cabin) vẫn phải được gán box chuẩn xác.
 
 ---
 
@@ -136,7 +140,7 @@ Mỗi bounding box thuộc 9 lớp đối tượng thực bắt buộc phải đ
 | [img_016](../../data/images/img_016.jpg) | Xe tuk-tuk, xe máy, van và người bị cắt ở các cạnh ảnh. | Gán tách biệt `tuk_tuk`, `motorcycle`, `van`, `person`; đánh dấu `truncated=yes` cho vật chạm mép ảnh. | Định danh chính xác từng phương tiện trong giao thông hỗn hợp. |
 | [img_017](../../data/images/img_017.jpg) | Tượng đài công tước Wellington cưỡi ngựa đội nón giao thông. | Không gán `person` cho tượng người; tượng ngựa và nón chóp ngoài taxonomy. Ảnh không có annotation. | Tượng điêu khắc là nền âm tính, tuyệt đối không gán nhãn người thật. |
 | [img_018](../../data/images/img_018.jpg) | Ảnh chân dung trên billboard và ô tô sau hàng rào kim loại. | Không gán chân dung billboard; gán `car` cho ô tô sau hàng rào (`occluded_level=1` hoặc `2` tùy mức che). | Ảnh in quảng cáo không phải người; hàng rào kim loại là vật thể che khuất. |
-| [img_019](../../data/images/img_019.jpg) | Xe diễu hành Danger Mouse màu vàng có người lái bên trong. | Gán 1 `car` bao quát thân xe diễu hành (`can_review=true`); gán 1 `person` cho người lái trong cabin. | Phương tiện cơ giới 4 bánh có người lái lưu thông trên đường mang rủi ro va chạm. |
+| [img_019](../../data/images/img_019.jpg) | Xe diễu hành Danger Mouse màu vàng có người lái và đám đông khán giả dính sát nhau sau hàng rào chắn. | **Ca khó (Đám đông nhiều người dính nhau):**<br>1. Gán 1 `car` bao quát thân xe diễu hành 4 bánh (`can_review=true`).<br>2. Gán 1 `person` cho người lái xe thật nhìn thấy trong cabin (`occluded_level=2`).<br>3. Bôi toàn bộ vùng đám đông nhiều người dính sát nhau phía sau hàng rào chắn là `ignore_region` (không gán từng box `person` riêng lẻ cho cụm người chen chúc). | Phương tiện cơ giới 4 bánh có người lái lưu thông trên đường mang rủi ro va chạm của `car`. Khoanh toàn bộ đám đông khán giả dính sát nhau sau rào chắn thành `ignore_region` để tránh tranh chấp ranh giới từng người bị che khuất và loại bỏ nhiễu cho mô hình thị giác. |
 | [img_020](../../data/images/img_020.jpg) | Gương chiếu hậu buồng lái nhìn thấy xe cộ phía sau. | Loại bỏ xe phản chiếu trong gương và phần xe chủ (gương/khung cửa). Ảnh không có annotation hợp lệ. | Hình ảnh trong gương là ảnh ảo; gán nhãn sẽ kích hoạt phanh khẩn cấp vô cớ. |
 | [img_021](../../data/images/img_021.jpg) | Dòng xe máy cực đông tại giao lộ, xe xa chỉ lộ một phần. | Gán riêng từng người và xe máy ở cự ly gần; cụm xe/người ở quá xa $< 20\text{ px}$ khoanh `ignore_region`. | Không gom cả đám đông vào một box; xử lý vật siêu nhỏ bằng ignore. |
 | [img_022](../../data/images/img_022.jpg) | Mô tô cổ gắn thùng phụ chở khách bên hông (Sidecar). | 1 box `motorcycle` bao trọn cụm mô tô và thùng phụ; gán 2 box `person` (1 người lái, 1 người trong sidecar). | Thùng phụ gắn cố định vào mô tô tạo thành một phương tiện 3 bánh thống nhất. |
